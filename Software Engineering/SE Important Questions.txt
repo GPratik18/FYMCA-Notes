@@ -8,6 +8,9 @@ SE important Questions
 5.Explain object-oriented design with the help of example UML design diagrams.
 6.Who are stake holders in SE? What is role and resposiblity  of the stake holder with jusitification why is it wrong ?
 7.Draw the detailed DFD for M.Tech result declaration for certain university . state the assumptions.
+8.State and explain various definitions of proposed by reserachers.
+9. What is software? Categories of software.
+
 
 
 @Unit 2..
